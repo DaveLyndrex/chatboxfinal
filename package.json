@@ -1,0 +1,19 @@
+{
+    "name": "chatcord",
+    "version": "1.0.0",
+    "description": "Realtime chat bot",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "test": "nodemon server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DaveLyndrex/SDelectiveFinal.git"
+    },
+    "author": "Dave Lyndrex Millan",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
