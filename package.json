@@ -14,8 +14,6 @@
     "author": "Dave Lyndrex Millan",
     "license": "MIT",
     "dependencies": {
-    "express": "^3.21.2",
-    "moment": "^2.29.1",
-    "socket.io": "^0.9.19",
-  }
+    "express": "^3.21.2"
+  },
 }
